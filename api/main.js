@@ -16,6 +16,4 @@ app.get('/user-info/:id', (req, res) => { //funcion callback
     }
 });
 
-app.listen(3000, () => {
-    console.log('Server listening on port 3000');
-});
+module.exports = app; // cambio para que funciones en versel
