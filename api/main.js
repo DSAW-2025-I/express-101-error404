@@ -16,4 +16,4 @@ app.get('/user-info/:id', (req, res) => { //funcion callback
     }
 });
 
-module.exports = app; // cambio para que funciones en versel
+module.exports = app; // cambio para que funciones en vercel
