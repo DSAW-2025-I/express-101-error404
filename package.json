@@ -1,0 +1,26 @@
+{
+  "name": "verceluno",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LaMajoP/verceluno.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LaMajoP/verceluno/issues"
+  },
+  "homepage": "https://github.com/LaMajoP/verceluno#readme",
+  "description": "",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}
